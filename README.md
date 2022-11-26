@@ -2,7 +2,7 @@
 + <img src="https://user-images.githubusercontent.com/103330534/204066572-cb30e297-c88d-4c58-9e42-a432621ca735.png" width="24px"/>
 + <img src="https://user-images.githubusercontent.com/103330534/204066601-e7a5a26b-8240-4263-a28b-fe826bf2868a.png" width="24px"/>
 + <img src="https://user-images.githubusercontent.com/103330534/204066646-e5322cbc-93ed-4668-a102-8d35b1618717.png" width="24px"/>
-
++ LAMP/LEMP
 <!--
 **Liashawd/Liashawd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
